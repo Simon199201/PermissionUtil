@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PermissionUtil</string>
+    <string name="permission_storage">读写</string>
+    <string name="permission_phone">读取手机状态</string>
+    <string name="permission_location">位置信息</string>
+    <string name="permission_audio">音频信息</string>
+    <string name="permission_accounts">读取手机账户信息</string>
+    <string name="permission_message">权限信息</string>
+
+</resources>
